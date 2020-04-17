@@ -30,5 +30,6 @@
 学生、職歴、アルバイト、インターン経験など。
 - 2019年: [社会福祉法人 香東園 岡本荘] 入社(http://www.koutouen.com/okamotosou/)
 - 2019年: [穴吹リハビリテーションカレッジ専門学校](http://www.anabuki-college.net/ark/course/index.php) 卒業
-- 2016年: [株式会社四電コンサルタント](https://www.yon-c.co.jp/) 契約満了につき退社,  [穴吹リハビリテーションカレッジ専門学校](http://www.anabuki-college.net/ark/course/index.php) 入学
+- 2016年: [穴吹リハビリテーションカレッジ専門学校](http://www.anabuki-college.net/ark/course/index.php) 入学
+- 2016年: [株式会社四電コンサルタント](https://www.yon-c.co.jp/) 契約満了につき退社
 - 2015年: [株式会社四電コンサルタント](https://www.yon-c.co.jp/) 契約社員として入社
