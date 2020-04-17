@@ -23,7 +23,7 @@
 
 # Contact
 連絡先を書きましょう。
-- [Twitter](@kawaramoti)
+- [Twitter](https://twitter.com/kawaramoti)
 - [Mail](youshimo26@gmail.com)
 
 # History
