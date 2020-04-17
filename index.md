@@ -24,7 +24,7 @@
 # Contact
 連絡先を書きましょう。
 - [Twitter](https://twitter.com/kawaramoti)
-- [Mail](youshimo26@gmail.com)
+- [Mail](mailto:youshimo26@gmail.com)
 
 # History
 学生、職歴、アルバイト、インターン経験など。
