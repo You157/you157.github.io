@@ -19,7 +19,7 @@
 - 作った作品
   - [Pomodoro Timer](https://you157.github.io/pomodoro_timer/)
   - [秘密の匿名掲示板](https://peaceful-headland-39324.herokuapp.com/posts)
-  - [Twitter_Bot]@taberungo(https://github.com/You157/twitterTaberungoBot)
+  - [Twitter_Bot @taberungo](https://github.com/You157/twitterTaberungoBot)
  <iframe src="https://www.openprocessing.org/sketch/875809/embed/" width="400" height="300"></iframe>
 
 # Contact
